@@ -38,7 +38,7 @@ button:focus {
 .btn:hover,
 a:hover {
   text-decoration: none;
-  color: #e22104; }
+  color: #cb6667; }
 
 .btn-icon {
   display: inline-flex;
@@ -120,8 +120,8 @@ a:hover {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s; }
   .btn-primary:hover {
-    background-color: #e22104;
-    border-color: #e22104;
+    background-color: #cb6667;
+    border-color: #cb6667;
     color: #fff; }
 
 .btn-shadow {
