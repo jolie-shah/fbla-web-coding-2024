@@ -19,7 +19,7 @@ h1, h2 {
   font-weight: 700; }
 
 .subheading {
-  color: #f34949; }
+  color: #b52527; }
 
 .bg-white {
   background-color: #fff; }
@@ -28,7 +28,7 @@ h1, h2 {
   background-color: #f7f8f9; }
 
 a {
-  color: #f34949; }
+  color: #b52527; }
 
 a:focus,
 button:focus {
@@ -109,8 +109,8 @@ a:hover {
 
 .btn-primary {
   display: inline-block;
-  background-color: #f34949;
-  border-color: #f34949;
+  background-color: #b52527;
+  border-color: #b52527;
   color: #fff;
   border-radius: 30px;
   padding: 9px 25px;
@@ -239,7 +239,7 @@ a:hover {
   .testi-content .testi-author {
     font-weight: 500; }
   .testi-content .testi-desc span {
-    color: #f34949;
+    color: #b52527;
     font-weight: bold; }
   .testi-content .owl-dots {
     position: absolute;
