@@ -59,7 +59,7 @@ a:hover {
       padding-top: 65px;
       padding-bottom: 65px; } }
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
   .boxed-page {
     margin: 30px; } }
 
