@@ -59,7 +59,7 @@ a:hover {
       padding-top: 65px;
       padding-bottom: 65px; } }
 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
   .boxed-page {
     margin: 30px; } }
 
@@ -333,7 +333,7 @@ a:hover {
 =            RESERVATION            =
 ===================================*/
 #gtco-reservation {
-  height: 1200px;
+  height: 1000px;
   margin-bottom: 200px; }
 
 #selectJob + .select2-container--default .select2-selection--single .select2-selection__rendered {
@@ -511,4 +511,7 @@ a:hover {
 }
 .space2{
   margin-bottom: 24px;
+}
+.space3{
+  margin-top: 30px;
 }
