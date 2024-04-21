@@ -333,7 +333,7 @@ a:hover {
 =            RESERVATION            =
 ===================================*/
 #gtco-reservation {
-  height: 1000px;
+  height: 900px;
   margin-bottom: 200px; }
 
 #selectJob + .select2-container--default .select2-selection--single .select2-selection__rendered {
@@ -510,7 +510,7 @@ a:hover {
   margin-bottom: 50px;
 }
 .space2{
-  margin-bottom: 24px;
+  margin-bottom: 10px;
 }
 .space3{
   margin-top: 30px;
